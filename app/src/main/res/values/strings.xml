@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Bytes</string>
+    <string name="Name">Name</string>
+    <string name="Mobile">Mobile</string>
+    <string name="get_code">get code</string>
+    <string name="codeWaitPlaceholder">wait for %1$d \n seconds</string>
+    <string name="Verification_Code">Verification Code</string>
+    <string name="Password">Password</string>
+    <string name="Confirm_Password">Confirm Password</string>
+    <string name="LoginLink">Already have an account</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="Create_New_Account">Create New Account</string>
+    <string name="SignUpLink">Don\'t have an account</string>
+    <string name="Login">Login</string>
+    <string name="app_logo">App Logo</string>
+    <string name="Profile_Image">Profile Image</string>
+    <string name="messageBoxHint">say something…</string>
+    <string name="sendButton">send button</string>
+    <string name="code_sent">code sent</string>
+    <string name="myMessage_PlaceHolder">you: %1$s</string>
+
+    <string name="countryCode">+91</string>
+
+    <string name="NoNameError">Name cannot be empty</string>
+    <string name="NoMobileError">Mobile number is required</string>
+    <string name="InvalidMobileError">Mobile number is Invalid</string>
+    <string name="NoVerificationCodeEnteredError">Please enter a verification code</string>
+    <string name="NoVerificationCodeRequestedError">Please get a verification code</string>
+    <string name="SignUpError">Error occurred while Creating Account</string>
+    <string name="Verification_Failed">Verification Failed</string>
+    <string name="LoginError">Error occurred while Logging In</string>
+    <string name="LoginFailed">Login Failed</string>
+    <string name="NoAccountFoundError">No Account found</string>
+</resources>

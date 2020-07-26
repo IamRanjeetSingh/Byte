@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2CCAFC</color>
+    <color name="colorPrimaryDark">#2386A5</color>
+    <color name="colorAccent">#77fdff</color>
+
+    <color name="hintColor">#662386A5</color>
+    <color name="textColor">#24B1DD</color>
+    <color name="chatActivityBackground">#B4DFED</color>
+    <color name="timestamp">#DAEFF5</color>
+</resources>

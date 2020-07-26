@@ -1,0 +1,3 @@
+include ':androidLibrary'
+include ':app'
+rootProject.name = "Bytes"
